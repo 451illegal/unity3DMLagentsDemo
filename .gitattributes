@@ -5,3 +5,4 @@
 */CommunicatorObjects/* binary
 */communicator_objects/* binary
 *.md text
+*.sln linguist-language = C#
