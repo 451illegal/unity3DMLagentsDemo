@@ -1,0 +1,8 @@
+reward:
+1、如果碰到墙壁，-0.2
+2、每隔一段时间，-0.005
+3、随着距离增加，+0.02
+
+-0.2 penalty if the rat hits a wall.
+-0.005 time penalty.
++1.0 when reaching a piece of cheese.
